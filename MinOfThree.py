@@ -7,3 +7,4 @@ elif b<a and b<c:
     print("minimum number is:",b)
 else:
     print("minimum number is:",c)        
+
